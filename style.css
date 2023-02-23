@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.header {
+  width:100%;
+  margin:0px;
+  background-color: red;
+  color: white;
+  height: 20vh;
+  padding: 1vh;
+}
+img {height:100px; width 100px}
+
+#content1 {
+  width:100%;
+  margin:0px;
+  background-color: #f97b7b;
+  color: white;
+  height: 25vh;
+  padding: 1vh;
+}
+
+#content2{
+  width:100%;
+  margin:0px;
+  background-image: url(images/IMG_4105.JPG);
+  color: white;
+  height: 50vh;
+  padding: 1vh;
+}
